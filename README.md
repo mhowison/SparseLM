@@ -1,4 +1,4 @@
-# SparseML: Sparse Linear Models
+# SparseLM: Sparse Linear Models
 
 The goal of this package is to provide R and python interfaces to optimized C
 implementations of commonly-used linear models (OLS, LASSO, logit) for sparse
@@ -30,7 +30,7 @@ implement the sandwich estimator for robust standard errors.
 
 Copyright (C) 2017-2022 Mark Howison, Falmouth, ME.
 
-SparseML is available under the GNU General Public License v3.0.
+SparseLM is available under the GNU General Public License v3.0.
 See [LICENSE](https://github.com/mhowison/SparseLM/blob/main/LICENSE)
 for more details.
 
